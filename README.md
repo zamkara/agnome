@@ -4,13 +4,13 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-red.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Release](https://img.shields.io/github/v/release/zamkara/agnome?style=flat-square&color=emerald)](https://github.com/zamkara/agnome/releases)
 
-A sleek, lightweight, and modern GNOME Shell extension that makes managing and launching your workspace directories exceptionally effortless. Directly launch project directories with `agy` in your terminal right from the top panel, with seamless active project tracking.
+A sleek, lightweight, and modern GNOME Shell extension that makes managing and launching your workspace directories exceptionally effortless. Directly launch project directories with **Antigravity CLI (`agy`)** in your terminal right from the top panel, with seamless active project tracking.
 
 ---
 
 ## ✨ Features
 
-- **⚡ Instant Workspace Launcher**: Click the panel icon to select a folder via a native GTK folder picker, instantly opening a GNOME Console (`kgx`) window inside that folder running your `agy` command.
+- **⚡ Instant Workspace Launcher**: Click the panel icon to select a folder via a native GTK folder picker, instantly opening a GNOME Console (`kgx`) window inside that folder running your `agy` (Antigravity CLI) command.
 - **🔍 Active Project Labeling**: Displays the folder name of your currently active project in the top panel in real-time when its terminal window is focused.
 - **🔄 Dynamic Customization (Preferences)**:
   - **Panel Area**: Seamlessly sit the indicator on the `Left`, `Center`, or `Right` side of your top panel with custom ordering.
@@ -27,7 +27,7 @@ A sleek, lightweight, and modern GNOME Shell extension that makes managing and l
 To run this extension, ensure you have the following installed on your system:
 1. **GNOME Shell**: Versions `46` through `50`.
 2. **GNOME Console (`kgx`)**: The default modern terminal for GNOME.
-3. **`agy` CLI Tool**: Ensure the `agy` executable is installed and available in your environment `PATH`.
+3. **Antigravity CLI (`agy`)**: Ensure the `agy` executable is installed and available in your environment `PATH`.
 
 ---
 
