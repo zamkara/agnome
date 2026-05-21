@@ -30,7 +30,10 @@ A sleek, lightweight, and modern GNOME Shell extension that makes managing and l
 To run this extension, ensure you have the following installed on your system:
 1. **GNOME Shell**: Versions `46` through `50`.
 2. **GNOME Console (`kgx`)**: The default modern terminal for GNOME.
-3. **Antigravity CLI (`agy`)**: Ensure the `agy` executable is installed and available in your environment `PATH`.
+3. **Antigravity CLI (`agy`)**: Ensure the `agy` executable is installed and available in your environment `PATH`. You can install it using:
+   ```bash
+   curl -fsSL https://antigravity.google/cli/install.sh | bash
+   ```
 
 ---
 
