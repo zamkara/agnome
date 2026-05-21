@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.agnome" path="/org/gnome/shell/extensions/agnome/">
+    <key name="recent-projects" type="s">
+      <default>'[]'</default>
+      <summary>Recent projects</summary>
+      <description>JSON encoded list of recently opened project folders.</description>
+    </key>
+    <key name="active-label-position" type="s">
+      <default>'right'</default>
+      <summary>Active project label position</summary>
+      <description>Position of the active project folder name relative to the panel icon. Values: 'left' or 'right'.</description>
+    </key>
+    <key name="panel-position" type="s">
+      <default>'right'</default>
+      <summary>Panel area position</summary>
+      <description>Which area of the panel the extension sits in. Values: 'left', 'center', or 'right'.</description>
+    </key>
+    <key name="panel-order" type="i">
+      <default>0</default>
+      <summary>Panel order index</summary>
+      <description>Order within the panel area. Negative moves left, positive moves right. 0 is the default position before system indicators.</description>
+    </key>
+  </schema>
+</schemalist>

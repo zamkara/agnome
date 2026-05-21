@@ -1,0 +1,13 @@
+# Internal notes and documents
+catatan/
+
+# Compiled schemas (must be compiled dynamically on installation)
+schemas/gschemas.compiled
+
+# Package / build outputs
+build/
+*.zip
+
+# Operating System noise
+.DS_Store
+Thumbs.db

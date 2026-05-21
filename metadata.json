@@ -1,0 +1,14 @@
+{
+  "name": "Agnome",
+  "description": "Open projects with agy from the top panel — launch terminals, track recent folders.",
+  "uuid": "agnome@zam",
+  "settings-schema": "org.gnome.shell.extensions.agnome",
+  "shell-version": [
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "version": 1
+}
