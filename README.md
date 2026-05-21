@@ -4,8 +4,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL_v3-red.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 [![Release](https://img.shields.io/github/v/release/zamkara/agnome?style=flat-square&color=emerald)](https://github.com/zamkara/agnome/releases)
 
-<img width="867" height="394" alt="image" src="https://github.com/user-attachments/assets/4272f53c-97d3-486f-bcd8-670540a06e2c" />
-
+<img width="1799" height="874" alt="c85887f1-7251-4238-a6ef-1e3db6376080" src="https://github.com/user-attachments/assets/1eec8f48-1db8-48d9-b5de-d98e7e34e0c1" />
 
 A sleek, lightweight, and modern GNOME Shell extension that makes managing and launching your workspace directories exceptionally effortless. Directly launch project directories with **Antigravity CLI (`agy`)** in your terminal right from the top panel, with seamless active project tracking.
 
